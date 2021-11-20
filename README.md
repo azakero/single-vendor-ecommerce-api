@@ -2,20 +2,12 @@
 > Backend API for a single vendor ecommerce app.
 
 ## Features
-User CRUD
-Product CRUD
-Order CRUD
-User Authorization & Authentication
-Review
+User CRUD, Product CRUD, Order CRUD, User Authorization & Authentication, Review
 
 ## Usage
 
 > Download and create ".env" file in the root directory of the app.
-> Add 
-NODE_ENV=<production or development>
-PORT=<any port>
-MONGO_URI=<mongodb uri>
-JWT_SECRET=<any value>
+> Add NODE_ENV, PORT, MONGO_URI, JWT_SECRET
 
 ## Install Dependencies
 
